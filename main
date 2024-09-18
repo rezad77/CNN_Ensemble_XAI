@@ -1,0 +1,1 @@
+This repository contains datasets for training and testing models from the paper “False Data Injection Attack Detection and Localization in Power Distribution Systems Using CNNs and XAI.” It includes spatiotemporal data for IEEE 13-bus and 123-bus feeders (suffix X), FDIA occurrence (suffix Y), and FDIA zone info (suffix loc). Files are in .mat.
